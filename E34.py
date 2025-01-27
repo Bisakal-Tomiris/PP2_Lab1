@@ -1,7 +1,6 @@
-x = 35e3
-y = 12E4
-z = -87.7e100
+x = 5
+y = 3
 
-print(type(x))
-print(type(y))
-print(type(z))
+print(x != y)
+
+# returns True because 5 is not equal to 3

@@ -1,4 +1,2 @@
-a = "Hello"
-b = "World"
-c = a + b
-print(c)
+thislist = ["apple", "banana", "cherry"]
+print(thislist[1])

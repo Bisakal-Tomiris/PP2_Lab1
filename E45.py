@@ -1,5 +1,5 @@
-a = '''Lorem ipsum dolor sit amet,
-consectetur adipiscing elit,
-sed do eiusmod tempor incididunt
-ut labore et dolore magna aliqua.'''
-print(a)
+x = ["apple", "banana"]
+
+print("pineapple" not in x)
+
+# returns True because a sequence with the value "pineapple" is not in the list

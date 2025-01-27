@@ -1,5 +1,5 @@
-a = """Lorem ipsum dolor sit amet,
-consectetur adipiscing elit,
-sed do eiusmod tempor incididunt
-ut labore et dolore magna aliqua."""
-print(a)
+x = ["apple", "banana"]
+
+print("banana" in x)
+
+# returns True because a sequence with the value "banana" is in the list

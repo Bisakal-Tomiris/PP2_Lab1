@@ -1,4 +1,5 @@
-if 5 > 2:
- print("Five is greater than two!") 
-if 5 > 2:
-        print("Five is greater than two!") 
+x = "Hello"
+y = 15
+
+print(bool(x))
+print(bool(y))

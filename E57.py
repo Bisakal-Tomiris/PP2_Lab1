@@ -1,2 +1,2 @@
-a = "Hello, World!"
-print(a.upper())
+thislist = ["apple", "banana", "cherry"]
+print(len(thislist))

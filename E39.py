@@ -1,8 +1,5 @@
-x = float(1)
-y = float(2.8)
-z = float("3")
-w = float("4.2")
-print(x)
-print(y)
-print(z)
-print(w)
+x = 5
+
+print(x > 3 and x < 10)
+
+# returns True because 5 is greater than 3 AND 5 is less than 10

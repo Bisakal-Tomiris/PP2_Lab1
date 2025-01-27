@@ -1,14 +1,4 @@
-myvar = "John"
-my_var = "John"
-_my_var = "John"
-myVar = "John"
-MYVAR = "John"
-myvar2 = "John"
+x = 5
+y = 3
 
-
-print(myvar)
-print(my_var)
-print(_my_var)
-print(myVar)
-print(MYVAR)
-print(myvar2)
+print(x**y)

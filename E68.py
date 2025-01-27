@@ -1,2 +1,3 @@
-txt = "We are the so-called \"Vikings\" from the north."
-print(txt)
+thislist = ["apple", "banana", "cherry"]
+if "apple" in thislist:
+  print("Yes, 'apple' is in the fruits list")

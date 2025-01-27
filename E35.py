@@ -1,7 +1,5 @@
-x = 3+5j
-y = 5j
-z = -5j
+x = 5
+y = 3
 
-print(type(x))
-print(type(y))
-print(type(z))
+print(x > y)
+

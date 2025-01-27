@@ -1,7 +1,5 @@
-def myfunc():
-  global x
-  x = "fantastic"
+x = 5
 
-myfunc()
+x |= 3
 
-print("Python is " + x)
+print(x)

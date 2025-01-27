@@ -1,2 +1,4 @@
-#print("Hello, World!")
-print("Cheers, Mate!")
+def myFunction() :
+  return True
+
+print(myFunction())

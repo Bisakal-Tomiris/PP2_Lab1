@@ -1,4 +1,7 @@
-#This is a comment
-#written in
-#more than just one line
-print("Hello, World!")
+def myFunction() :
+  return True
+
+if myFunction():
+  print("YES!")
+else:
+  print("NO!")

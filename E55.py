@@ -1,2 +1,2 @@
-b = "Hello, World!"
-print(b[2:])
+thislist = ["apple", "banana", "cherry"]
+print(thislist)

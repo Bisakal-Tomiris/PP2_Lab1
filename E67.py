@@ -1,2 +1,2 @@
-txt = f"The price is {20 * 59} dollars"
-print(txt)
+thislist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
+print(thislist[-4:-1])

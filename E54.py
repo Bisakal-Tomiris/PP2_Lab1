@@ -1,2 +1,1 @@
-b = "Hello, World!"
-print(b[:5])
+print(5 + 4 - 7 + 3)

@@ -1,4 +1,3 @@
-x = y = z = "Orange"
+x = 5
+
 print(x)
-print(y)
-print(z)

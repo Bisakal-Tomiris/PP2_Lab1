@@ -1,2 +1,1 @@
-for x in "banana":
-  print(x)
+print(6 | 3)

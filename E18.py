@@ -1,4 +1,4 @@
-x, y, z = "Orange", "Banana", "Cherry"
-print(x)
-print(y)
-print(z)
+x = 5
+y = 3
+
+print(x//y)

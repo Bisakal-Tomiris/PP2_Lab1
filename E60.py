@@ -1,2 +1,2 @@
-a = "Hello, World!"
-print(a.replace("H", "J"))
+mylist = ["apple", "banana", "cherry"]
+print(type(mylist))

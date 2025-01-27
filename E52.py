@@ -1,3 +1,1 @@
-txt = "The best things in life are free!"
-if "expensive" not in txt:
-  print("No, 'expensive' is NOT present.")
+print((6 + 3) - (6 + 3))

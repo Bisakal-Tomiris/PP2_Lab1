@@ -1,1 +1,4 @@
-print("Hello, World!")
+print(10 > 9)
+print(10 == 9)
+print(10 < 9)
+

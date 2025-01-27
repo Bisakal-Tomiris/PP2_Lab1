@@ -1,7 +1,6 @@
-x = 1.10
-y = 1.0
-z = -35.59
+x = 5
+y = 3
 
-print(type(x))
-print(type(y))
-print(type(z))
+print(x == y)
+
+# returns False because 5 is not equal to 3

@@ -1,2 +1,5 @@
 x = 5
-print(type(x))
+
+x >>= 3
+
+print(x)

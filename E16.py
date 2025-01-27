@@ -1,5 +1,4 @@
-a = 4
-A = "Sally"
+x = 5
+y = 3
 
-print(a)
-print(A)
+print(x%y)

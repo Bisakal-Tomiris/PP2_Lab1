@@ -1,2 +1,1 @@
-a = "Hello, World!"
-print(len(a))
+print(6^3)

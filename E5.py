@@ -1,5 +1,3 @@
-x = 5
-y = "Hello, World!"
-
-print(x)
-print(y)
+bool("abc")
+bool(123)
+bool(["apple", "cherry", "banana"])

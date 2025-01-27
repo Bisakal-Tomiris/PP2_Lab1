@@ -1,6 +1,5 @@
-fruits = ["apple", "banana", "cherry"]
-x, y, z = fruits
+x = 5
+
+x += 3
 
 print(x)
-print(y)
-print(z)

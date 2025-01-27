@@ -1,3 +1,2 @@
-age = 36
-txt = f"My name is John, I am {age}"
-print(txt)
+thislist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
+print(thislist[2:5])

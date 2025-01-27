@@ -1,3 +1,2 @@
-price = 59
-txt = f"The price is {price} dollars"
-print(txt)
+thislist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
+print(thislist[:4])

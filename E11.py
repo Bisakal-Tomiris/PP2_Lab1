@@ -1,4 +1,1 @@
-x = 5
-y = "John"
-print(x)
-print(y)
+print(10 + 5)

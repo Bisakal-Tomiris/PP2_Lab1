@@ -1,7 +1,5 @@
-x = 1
-y = 2.8
-z = 1j
+x = 5
 
-print(type(x))
-print(type(y))
-print(type(z))
+x <<= 3
+
+print(x)

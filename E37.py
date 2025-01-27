@@ -1,3 +1,4 @@
-import random
+x = 5
+y = 3
 
-print(random.randrange(1, 10))
+print(x >= y)
